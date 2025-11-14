@@ -1,0 +1,33 @@
+# Sistema/OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Logs & temporários
+*.log
+*.tmp
+*.bak
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Excel lock files
+~$*.xlsx
+~$*.xlsm
+
+# Builds
+dist/
+build/

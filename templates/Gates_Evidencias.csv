@@ -1,0 +1,6 @@
+fase;gate;criterio;artefatos;acao;responsavel;observacoes
+Busca & Seleção (P1–P3);Top‑3 priorizado;Score ≥7 e evidências completas;O1‑1/2/3/4/5;Ir para P4;Estrategista;Atualizar datas‑base
+Vocação & Produto (P4–P5);Produto/stand definido;Checklist legal/urbanístico sem bloqueios;"O4‑1; O5‑1/2";Ir para P6;Coord. Produto;Registrar trade‑offs
+Mercado & Ritmo (P6–P8);Preço/curva defensáveis;"Absorção consistente; semáforo verde/amarelo";"O6‑*; O7‑*; O8‑*";Ir para P9;Inteligência de Mercado;Evitar cronograma ad‑hoc
+Convalidação (P9);Amostra válida;"Erro amostral aceitável; coerência P6–P8";"O9‑1; planilha amostragem";Ajustar preço/ritmo se necessário;Coord. Pesquisa;"10:1 sem validação; 4:1 validado"
+Viabilidade & Decisão (P10);Go/Hold/No‑Go;"Hurdle atendida; sensibilidade ok";O10‑1..6;Executar/ajustar/encerrar;CFO/Comitê;Curva de vendas derivada de P8

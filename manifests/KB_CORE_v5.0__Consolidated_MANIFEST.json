@@ -1,0 +1,49 @@
+{
+  "kb_version": "5.0",
+  "generated_at": "20251112_181121",
+  "packages_history": [
+    {
+      "created_at": "20251112_174408",
+      "kb_source": "KB_CORE_v5.0__ANEXO.md",
+      "updated_kb": "KB_CORE_v5.0__ANEXOS_MapaMental.md",
+      "artifacts": [
+        "Anexo_Analises_Estrategicas_Mapa_Mental.md",
+        "Mapa_Estrategico_Canvas.md",
+        "Gates_Evidencias.csv"
+      ]
+    },
+    {
+      "created_at": "20251112_174605",
+      "package": "KB_CORE_v5.0__FULL_20251112_174605.zip",
+      "kb": "KB_CORE_v5.0__ANEXOS_MapaMental.md",
+      "included_files": [
+        "Anexo_Analises_Estrategicas_Mapa_Mental.md",
+        "Anexo_Estrutura_Estudo_Economico_sem_metricas.md",
+        "KB_CORE_v5.0_MapaMental_MANIFEST.json",
+        "KB_CORE_v5.0__ANEXOS_MapaMental.md",
+        "insert_anexo_kb.ps1",
+        "insert_anexo_kb.py",
+        "insert_anexo_kb.sh"
+      ]
+    },
+    {
+      "created_at": "20251112_181121",
+      "package": "KB_CORE_v5.0__FULL_20251112_181121.zip",
+      "kb_core": "KB_CORE_v5.0__ANEXOS_MapaMental_Estrutura_Metricas.md",
+      "included_files": [
+        "Anexo_Analises_Estrategicas_Mapa_Mental.md",
+        "Anexo_Estrutura_Estudo_Economico_sem_metricas.md",
+        "Anexo_Metricas_Analise_EconomicoFinanceira.md",
+        "Gates_Evidencias.csv",
+        "KB_CORE_v5.0__.md",
+        "KB_CORE_v5.0__ANEXOS_MapaMental.md",
+        "KB_CORE_v5.0__ANEXOS_MapaMental_Estrutura_Metricas.md",
+        "Mapa_Estrategico_Canvas.md",
+        "O10-7_FC_Indicadores_Base.xlsx",
+        "insert_anexo_kb.ps1",
+        "insert_anexo_kb.py",
+        "insert_anexo_kb.sh"
+      ]
+    }
+  ]
+}
