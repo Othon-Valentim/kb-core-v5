@@ -1,33 +1,18 @@
-# Sistema/OS
-.DS_Store
-Thumbs.db
-desktop.ini
-
 # Python
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-.venv/
-env/
+*.py[cod]
+.Python
 venv/
-
-# Logs & temporários
-*.log
+ENV/
+.claude/config.json
+.claude/cache/
+.env
+*.key
 *.tmp
-*.bak
+*.log
+outputs/
+temp/
 
-# IDEs
-.vscode/
-.idea/
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Excel lock files
-~$*.xlsx
-~$*.xlsm
-
-# Builds
-dist/
-build/
+# OS
+.DS_Store
+Thumbs.db
