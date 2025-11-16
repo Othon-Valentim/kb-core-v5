@@ -1,0 +1,43 @@
+# Critérios para geração de Heatmap H3 – Passo 6 TIV 4.0
+versao: "2.0"
+data: "2025-11-12"
+projeto: "[NOME DO PROJETO]"
+municipio: "[MUNICIPIO-UF]"
+
+# Configurações H3
+h3_resolution: 8   # Opções: 8 (474m) ou 9 (174m) - Recomendado: 8 ou 9
+area_influencia_source: "Passo 3 - Isócronas"
+
+# Filtros Demográficos
+filters:
+  age_range: [25, 59]      # Foco: Economicamente Ativa
+  family_size: [3, 5]      # Famílias 3–5 moradores
+  income_brackets:         # Ajustar conforme produto
+    - "R$7.000 – R$10.000"
+    - "R$10.000 – R$15.000"
+
+# Critérios de Atratividade (Score 0-100)
+attractiveness_weights:
+  renda_compativel: 0.35
+  densidade_familiar: 0.25
+  infraestrutura_proxima: 0.20
+  acessibilidade: 0.20
+
+# Validações
+validations:
+  check_isocronas: true
+  min_score_threshold: 50
+  compare_with_passo3: true
+
+# Notas
+notes: |
+  - Checar coerência com isócronas 5–10–15 min do Passo 3 (AAI)
+  - Hexágonos com score > 50 entram no cálculo de demanda
+  - Fontes: IBGE (população), FGV (renda), cadastro municipal
+
+# Outputs
+outputs:
+  - heatmap_h3.png
+  - heatmap_h3.pdf
+  - h3_data.csv
+  - h3_summary.md

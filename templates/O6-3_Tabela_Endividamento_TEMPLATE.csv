@@ -1,0 +1,8 @@
+nicho,classe,tipo_demanda,regra_endividamento_pct,observacoes
+vertical,Todas,--,30,Regra bancária de referência para empreendimentos verticais
+loteamento,A,Deficit,20,Ajustar à praça/taxa/prazo - Aluguel ou Cedido
+loteamento,A,PLUS,26,Ajustar à praça/taxa/prazo - Próprio Quitado
+loteamento,B,Deficit,16,Ajustar à praça/taxa/prazo - Aluguel ou Cedido
+loteamento,B,PLUS,18,Ajustar à praça/taxa/prazo - Próprio Quitado
+loteamento,C,Deficit,12,Ajustar à praça/taxa/prazo - Aluguel ou Cedido
+loteamento,C,PLUS,14,Ajustar à praça/taxa/prazo - Próprio Quitado
